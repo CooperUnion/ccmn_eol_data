@@ -1,0 +1,2 @@
+04/22/23 - Daniel M: #4 failed EOL at power rails stage - power is ok through
+USB but not through VIN. VIN eFuse appears to require rework.
